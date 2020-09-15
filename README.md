@@ -1,5 +1,6 @@
-![made-with-React](https://img.shields.io/badge/Made%20with-React-1f425f.svg)]
-![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)]
+![made-with-React](https://img.shields.io/badge/Made%20with-REACT-1f425f.svg)
+![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
+![made-with-CSS](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
 
 ## Progession
 
