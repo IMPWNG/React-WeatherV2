@@ -1,4 +1,5 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![HTML](https://img.shields.io/?style=plastic&logo=appveyor)
 
 [![Generic badge](https://img.shields.io/badge/STATUS-DONE-<brightgreen>.svg)](https://shields.io/)
 
