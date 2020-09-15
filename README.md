@@ -13,6 +13,8 @@ Failed to register/update a ServiceWorker for scope ‘http://localhost:3000/’
 
 Only work on Chrome .. have to find why not on Firefox
 
+DONE
+
 
 
 
