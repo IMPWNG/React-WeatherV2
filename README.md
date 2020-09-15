@@ -1,7 +1,6 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-![Generic badge](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
-![Generic badge](https://img.shields.io/badge/STATUS-DONE-<brightgreen>.svg)
+![Generic badge](https://img.shields.io/badge/styles/json?style=plastic&logo=appveyor
 
 ## Progession
 
