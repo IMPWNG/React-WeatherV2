@@ -1,6 +1,6 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<STATUS>-<DONE>-<brightgreen>.svg)](https://shields.io/)
 
 ## Progession
 
