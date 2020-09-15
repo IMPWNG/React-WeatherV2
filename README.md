@@ -1,4 +1,4 @@
-JAVASCRIPT + REACT
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
