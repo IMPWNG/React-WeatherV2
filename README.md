@@ -5,18 +5,15 @@
 
 
 
-## Progession
+## See Live
 
-Follow the progression of the APP
+[Live](https://impwng-pwaweather-app.netlify.app)
 
-### `15/09/2020`
+## Run the App 
 
-- Stuck in the ServiceWorker Part (vid 26:09) = https://www.youtube.com/watch?v=IaJqMcOMuDM&t=316s&ab_channel=JavaScriptMastery 
-Failed to register/update a ServiceWorker for scope ‘http://localhost:3000/’: Storage access is restricted in this context due to user settings or private browsing mode.
+- Yarn start
 
-- Only work on Chrome .. have to find why not on Firefox
-
-- Deployed on Netlify
+PWA 3*
 
 
 
