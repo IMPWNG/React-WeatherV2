@@ -1,7 +1,6 @@
 ![made-with-React](https://img.shields.io/badge/Made%20with-REACT-1f425f.svg)
-![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-1f425f.svg)
-![made-with-CSS](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
 ![DONE](https://img.shields.io/badge/PROJECT-DONE-SUCCESS)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bca84ce-32bd-4e17-9566-8f847d1dd0b2/deploy-status)](https://app.netlify.com/sites/impwng-pwaweather-app/deploys)
 
 
 
